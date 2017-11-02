@@ -1,0 +1,1 @@
+https://medium.com/@wesharehoodies/next-js-react-server-side-rendering-done-right-f9700078a3b6
